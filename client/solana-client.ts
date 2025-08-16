@@ -1,0 +1,1 @@
+// Initial content for solana-client.ts
